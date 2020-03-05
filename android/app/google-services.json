@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502183300552",
+    "firebase_url": "https://listaatividade.firebaseio.com",
+    "project_id": "listaatividade",
+    "storage_bucket": "listaatividade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502183300552:android:42ec1be79907f909d944fd",
+        "android_client_info": {
+          "package_name": "com.example.lista_atividades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502183300552-cd12ovh0kfivlnoa6mhhgg8cqk0nul96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUduAuD2eRxydLTdxGeGKKiHR3agtp_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502183300552-cd12ovh0kfivlnoa6mhhgg8cqk0nul96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
